@@ -1,0 +1,21 @@
+h1 {
+  color: navy;
+}
+
+.list {
+    width: 500px;
+    height: 250px;
+    background-color: navy;
+    color: white;
+    padding: 10px;
+}
+
+.form {
+    margin: 20px
+}
+
+.form input, .form button {
+    background-color: navy;
+    color: white;
+    padding: 5px;
+}
